@@ -20,9 +20,9 @@ The goal of this repo is **learning by building**, not just theory.
 ## 🧠 Topics Covered (or Planned)
 
 - ✅ Next.js Project Setup  
-- ✅ App Router vs Pages Router  
-- ✅ File-based Routing  
-- 🔄 Layouts & Templates  
+- ✅ CSS Styling  
+- ✅ Optimizing Fonts & Images  
+- ✅ Creating Layout & Pages  
 - 🔄 Server Components & Client Components  
 - 🔄 Data Fetching (SSR, SSG, ISR)  
 - 🔄 API Routes  
